@@ -88,7 +88,7 @@ const parth = {
 
 <div align="center">
   
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=parthnarkar&theme=radical&no-bg=true&no-frame=true)
+![GitHub Trophies](https://github-trophies.vercel.app/?username=parthnarkar&theme=onedark)
 
 </div>
 
