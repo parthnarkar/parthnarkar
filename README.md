@@ -1,3 +1,7 @@
+<!-- <img width="1920" height="1080" alt="Parth builds logo" src="https://github.com/user-attachments/assets/a1244267-baa6-46e0-9400-5a43a37aad94" />  -->
+<img width="1280" height="720" alt="builds" src="https://github.com/user-attachments/assets/a1625dba-5b35-4ca7-b4bf-08491063416e" />
+
+<!--
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20There!%20👋&fontSize=42&fontAlignY=32&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
 </div>
@@ -9,6 +13,7 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 
 ## 🚀 About Me
 
@@ -120,11 +125,6 @@ const parth = {
 
 </div>
 
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ---
 
 <div align="center">
@@ -138,3 +138,4 @@ const parth = {
 **⭐️ From [parthnarkar](https://github.com/parthnarkar) with ❤️**
 
 </div>
+-->
