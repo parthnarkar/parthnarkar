@@ -1,4 +1,10 @@
-<img width="1650" height="395" alt="Parth builds logo" src="https://github.com/user-attachments/assets/4a4ea4d2-dfc6-4dd4-a6ca-37e1551477cb" />
+<!-- PARTH NARKAR (PARTH BUILDS) PROFILE README FILE -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/b657e672-92f9-4d6c-8213-86715f5c9cbe" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/8b14a132-5d0e-4708-b6bf-43d3345fe226" />
+  <img alt="Parth Builds Logo" src="https://github.com/user-attachments/assets/8b14a132-5d0e-4708-b6bf-43d3345fe226" />
+</picture>
 
 <div align="center">
   
@@ -27,6 +33,8 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
+
+<!-- <img width="1650" height="395" alt="Parth builds logo" src="https://github.com/user-attachments/assets/4a4ea4d2-dfc6-4dd4-a6ca-37e1551477cb" /> -->
 
 <!-- img width="1920" height="1080" alt="Parth builds logo" src="https://github.com/user-attachments/assets/a1244267-baa6-46e0-9400-5a43a37aad94" /> -->
 <!-- <img width="1280" height="720" alt="builds" src="https://github.com/user-attachments/assets/a1625dba-5b35-4ca7-b4bf-08491063416e" /> -->
